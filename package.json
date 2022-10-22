@@ -1,0 +1,17 @@
+{
+  "name": "jobs-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "jimp": "^0.16.2",
+    "text-to-image": "^5.2.0"
+  }
+}
